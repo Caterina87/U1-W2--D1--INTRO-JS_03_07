@@ -62,7 +62,10 @@ console.log("Contenuto variabile name: ", name);
 const myName = "Caterina";
 console.log("Contenuto variabile myName:", myName);
 
-/*myName = "Munno";*/
+/*myName = "Munno"; 
+E' stato commentato in quanto
+andava in errore e non consentiva di proseguire con
+il resto della pagina*/
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
